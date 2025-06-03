@@ -1,1 +1,8 @@
-{}
+permission_view_gtt_smash: Visa GTT SMASH
+project_module_gtt_smash: GTT SMASH
+field_tracker_simple_note: Tracker för enkla anteckningar
+field_tracker_photo_note: Spårare för fotoanteckningar
+field_tracker_gps_log: Spårare för GPS-loggar
+field_default_subject: Standardämne
+setting_message: 'Försiktigt: se till att valda trackers inte har obligatoriska anpassade
+  fält!'
